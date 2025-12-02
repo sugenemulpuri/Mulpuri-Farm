@@ -2,7 +2,7 @@
 
 ## Mulpuri Farm
 
-This is an application for Mulpuri Farm built with React.
+This is an application for Mulpuri Farm built with Create React App.
 
 ## Description
 
