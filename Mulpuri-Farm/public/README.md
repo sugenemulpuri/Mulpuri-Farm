@@ -30,8 +30,7 @@ To run the application:
 4. Start the server by entering the command npm start and the application will load in your browser.
 
 ## Screenshots
-
-<img width="495" height="621" alt="country-app-screenshot" src="https://github.com/user-attachments/assets/33a2c9bc-431e-430d-bbd0-a58925119eea" />
+<img width="1509" height="738" alt="Mulpuri-Farm-Screenshot" src="https://github.com/user-attachments/assets/864f0f00-5956-4270-acf4-0368fa96fe52" />
 
 ## Help
 This app is fully functional with the data implemented. In case of any issues or bugs, please contact the developer at the contact information below.
