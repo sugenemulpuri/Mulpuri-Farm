@@ -1,0 +1,75 @@
+[
+    {
+        "sku": "332A6",
+        "name": "Apple",
+        "quantity": 30,
+        "price": 1.75
+    },
+    {
+        "sku": "235O4",
+        "name": "Oranges",
+        "quantity": 20,
+        "price": 1.25
+    },
+    {
+        "sku": "239B5",
+        "name": "Bananas",
+        "quantity": 25,
+        "price": 0.98
+    },
+    {
+        "sku": "290T3",
+        "name": "Tomatoes",
+        "quantity": 15,
+        "price": 1.15
+    },
+    {
+        "sku": "388L9",
+        "name": "Lettuce",
+        "quantity": 18,
+        "price": 2.50
+    },
+    {
+        "sku": "193P8",
+        "name": "Pickles",
+        "quantity": 15,
+        "price": 2.25
+    },
+
+    {
+        "sku": "18OL8",
+        "name": "Olives",
+        "quantity": 40,
+        "price": 0.85
+    },
+    {
+        "sku": "279Y4",
+        "name": "Yams",
+        "quantity": 40,
+        "price": 1.50
+    },
+    {
+        "sku": "842P2",
+        "name": "Potatoes",
+        "quantity": 30,
+        "price": 0.95
+    },
+    {
+        "sku": "131B7",
+        "name": "Bread",
+        "quantity": 20,
+        "price": 3.25
+    },
+    {
+        "sku": "404B3",
+        "name": "Beans",
+        "quantity": 30,
+        "price": 2.00
+    },
+    {
+        "sku": "225O3",
+        "name": "Okra",
+        "quantity": 25,
+        "price": 1.50
+    }
+]
